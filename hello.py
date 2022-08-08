@@ -5,4 +5,4 @@ def add_elements(function_list):
     return sum
 
 global_list = [0,1,2,3]
-print("Initial list ", global_list)
+print("Init ", global_list)
